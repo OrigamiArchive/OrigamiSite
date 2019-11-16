@@ -16,7 +16,7 @@ public class OrigamiSite {
 
 			@Override
 			public String generateHTML(Website wb, UserClient client, MAMPEngine engine, Request request) {
-				return "Just running some tests";
+				return "More things added in!";
 			}
 		});
 
