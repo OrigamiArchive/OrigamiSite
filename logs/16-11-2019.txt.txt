@@ -8,3 +8,5 @@ MAMP -> [INFO 16-11-2019 21:35] Forbidden Files file was found and will be loade
 MAMP -> [INFO 16-11-2019 21:36] Blacklisted IPs file was found and will be loaded up.
 MAMP -> [INFO 16-11-2019 21:36] Forbidden Files file was found and will be loaded up.
 MAMP -> [INFO 16-11-2019 21:36] Opened connection on port 80. Awaiting connections
+MAMP -> [INFO 16-11-2019 22:08] Blacklisted IPs file was found and will be loaded up.
+MAMP -> [INFO 16-11-2019 22:08] Forbidden Files file was found and will be loaded up.
