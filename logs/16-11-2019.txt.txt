@@ -1,0 +1,3 @@
+MAMP -> [INFO 16-11-2019 21:22] Blacklisted IPs file was not found initally. It has now been created.
+MAMP -> [INFO 16-11-2019 21:22] Forbidden Files file was not found initally. It has now been created.
+MAMP -> [INFO 16-11-2019 21:22] Opened connection on port 80. Awaiting connections
